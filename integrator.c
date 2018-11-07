@@ -1,5 +1,4 @@
 /* INTEGRATOR RK4
- Giovanni Angelini v 0.0 Nov. 2015
 
  The code compute Positions and Velocities of Sun and Earth starting from Initial condintions and using the RK4 method.
  */
